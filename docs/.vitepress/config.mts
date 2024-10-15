@@ -45,6 +45,7 @@ export default defineConfig({
                 { text: 'VPN', link: '/software/vpn' },
                 { text: 'Discord Clients', link: '/software/discordclients' },
                 { text: 'Minecraft Launcher', link: '/software/minecraftlauncher' },
+                { text: 'Winrar', link: '/software/winrar' },
               ]
             },
             {
