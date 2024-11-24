@@ -166,7 +166,7 @@ title: "The Archive",
             { text: 'Extend Chrome MV2', link: '/windows/chrome' },
             { text: 'VPN', link: '/windows/vpn' },
             { text: 'Discord Clients', link: '/windows/discordclients' },
-            { text: 'Winrar', link: '/windows/winrar' },
+            //{ text: 'Winrar', link: '/windows/winrar' },
           ]
         },
         {
