@@ -165,7 +165,6 @@ title: "The Archive",
             { text: 'Firefox Setup', link: '/windows/firefoxsetup' },
             { text: 'Extend Chrome MV2', link: '/windows/chrome' },
             { text: 'VPN', link: '/windows/vpn' },
-            { text: 'Discord Clients', link: '/windows/discordclients' },
             //{ text: 'Winrar', link: '/windows/winrar' },
           ]
         },
@@ -186,8 +185,9 @@ title: "The Archive",
         {
           text: 'Tools',
           items: [
-            //{ text: 'Welcome', link: '/windows/welcome' },
-            { text: 'In Development', link: '/tools/welcome' },
+            //{ text: 'In Development', link: '/tools/welcome' },
+            { text: 'Twitch Tools', link: '/tools/twitchtools' },
+            { text: 'Discord Tools', link: '/tools/discordtools' },
           ]
         },
         {

@@ -9,13 +9,13 @@
 
 :::warning **Note** - Must have a Script Manager Extension Installed like **[Violetmonkey](https://addons.mozilla.org/firefox/addon/violentmonkey/)**
 :::
-* ⭐ **Adguard Extra - [Install Link](https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js)**
+* ⭐ **Vaft - [Install Link](https://github.com/pixeltris/TwitchAdSolutions/raw/master/vaft/vaft.user.js)**
+    - It's the same as video-swap-new but attempts to get a clean stream faster (it may suffer from more freezing/playback issues).
+* **Adguard Extra - [Install Link](https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js)**
     - Same as Vaft but maintained by the [Adguard Team](https://github.com/AdguardTeam/AdGuardExtra)
 * **Video-swap-new - [Install Link](https://github.com/pixeltris/TwitchAdSolutions/raw/master/video-swap-new/video-swap-new.user.js)** 
     - Uses the embed player during ads 
     - Quality is dropped to 360p when ads are being played
-* **Vaft - [Install Link](https://github.com/pixeltris/TwitchAdSolutions/raw/master/vaft/vaft.user.js)**
-    - It's the same as video-swap-new but attempts to get a clean stream faster (it may suffer from more freezing/playback issues).
 
 ## Server Side (Hard)
 * TTV LOL PRO V2 - [Firefox](https://addons.mozilla.org/addon/ttv-lol-pro/) - [Chrome](https://chrome.google.com/webstore/detail/ttv-lol-pro/bpaoeijjlplfjbagceilcgbkcdjbomjd) - [code](https://github.com/younesaassila/ttv-lol-pro)

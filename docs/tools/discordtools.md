@@ -8,11 +8,21 @@
 
 ***
 
-### BetterVencord (Hard)
-
-[Github](https://github.com/Davilarek/Vencord)
+### BetterVencord (Hard) - [Github](https://github.com/Davilarek/Vencord)
 
 #### How to Build BetterVendord
+:::tabs
+
+== Automated Install
+
+PowerShell Script made by me <3 <br>
+::: tip 
+Run this Script in `%USERPROFILE%`,  i.e `C:\Users\<username>\`
+:::
+[Download]() - [Code]()
+
+== Manual Install
+
 <ins> Prerequisites </ins>
 1. Install [Node.js](https://nodejs.org/en) or run `winget install OpenJS.NodeJS.LTS` in cmd
 2. Install [pnpm](https://pnpm.io/installation) or run `npm install -g pnpm` in cmd
@@ -24,6 +34,10 @@
 3. `pnpm install --frozen-lockfile`
 4. `pnpm build`
 5. `pnpm inject` 
+
+:::
+
+***
 
 #### Plugin Libraries for BetterVencord
 1. `Settings -> Vencord -> Plugins`
