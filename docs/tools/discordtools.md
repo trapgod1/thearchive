@@ -16,10 +16,6 @@
 == Automated Install
 
 PowerShell Script made by me <3 <br>
-::: tip 
-Run this Script in `%USERPROFILE%`,  i.e `C:\Users\<username>\`
-:::
-[Download]() - [Code]()
 
 == Manual Install
 
