@@ -17,6 +17,8 @@
 
 PowerShell Script made by me <3 <br>
 
+[Download](https://raw.githubusercontent.com/trapgod1/thearchive/refs/heads/dev/docs/assets/bettervencord.ps1) - [Code](https://github.com/trapgod1/thearchive/blob/dev/docs/assets/bettervencord.ps1)
+
 == Manual Install
 
 <ins> Prerequisites </ins>
