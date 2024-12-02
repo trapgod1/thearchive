@@ -188,6 +188,7 @@ title: "The Archive",
             //{ text: 'In Development', link: '/tools/welcome' },
             { text: 'Twitch Tools', link: '/tools/twitchtools' },
             { text: 'Discord Tools', link: '/tools/discordtools' },
+            { text: 'Windows Tools', link: '/tools/windowstools' },
           ]
         },
         {
