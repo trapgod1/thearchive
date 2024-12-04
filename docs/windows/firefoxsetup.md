@@ -21,7 +21,7 @@
 ## uBlock Origin Filter Lists
 
 <div style="width: 100%; text-align: left;">
-    <img src="/assets/uBlockOriginFilterLists.png" alt="UblockOriginFilterLists" style="width: 50%; height: auto;">
+    <img src="/assets/adblocking-privacy/uBlockOriginFilterLists.png" alt="UblockOriginFilterLists" style="width: 50%; height: auto;">
 </div>
 
 * [Actually Legitimate URL Shortener Tool](https://filterlists.com/lists/actually-legitimate-url-shortener-tool) (2k rules)
