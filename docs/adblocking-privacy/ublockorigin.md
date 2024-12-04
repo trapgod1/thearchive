@@ -8,10 +8,10 @@
 2) Aim for [efficiency](https://brave.com/blog/the-mounting-cost-of-stale-ad-blocking-rules/) without sacrificing quality (use sane, quality resources).
 3) Implement the [minimum](https://reddit.com/r/uBlockOrigin/wiki/index#wiki_which_filter_lists_should_i_select.3F) number of useful lists (avoid redundancy and bloat when possible).
 
-## Recommened Filters for uBlock Origin
+## Recommended Filters for uBlock Origin
 
 <div style="width: 100%; text-align: left;">
-    <img src="/assets/uBlockOriginFilterLists.png" alt="UblockOriginFilterLists" style="width: 50%; height: auto;">
+    <img src="/assets/adblocking-privacy/uBlockOriginFilterLists.png" alt="UblockOriginFilterLists" style="width: 50%; height: auto;">
 </div>
 
 * [Actually Legitimate URL Shortener Tool](https://filterlists.com/lists/actually-legitimate-url-shortener-tool) (2k rules)

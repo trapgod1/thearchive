@@ -16,6 +16,7 @@
 == Automated Install
 
 PowerShell Script made by me <3 <br>
+(right click, Save Link As... on the links to download)
 
 [Download](https://raw.githubusercontent.com/trapgod1/thearchive/refs/heads/dev/docs/assets/bettervencord.ps1) - [Code](https://github.com/trapgod1/thearchive/blob/dev/docs/assets/bettervencord.ps1)
 
@@ -37,11 +38,17 @@ PowerShell Script made by me <3 <br>
 
 ***
 
-#### Plugin Libraries for BetterVencord
+#### Recommended Plugins for BetterVencord
+<ins> Prerequisites </ins>
 1. `Settings -> Vencord -> Plugins`
-2. Enable `BD Compatility Layer` and open settngs for it
-3. In Plugin URL 1 add `https://raw.githubusercontent.com/riolubruh/YABDP4Nitro/main/0PluginLibrary.plugin.js`
-4. In Plugin URL 2 add `https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/1XenoLib.plugin.js`
+2. Enable `BD Compatibility Layer`
+
+<ins> Download Libraries </ins> <br>
+(right click, Save Link As... on the links to download)
+1. [0PluginLibrary](https://raw.githubusercontent.com/zerebos/BDPluginLibrary/refs/heads/master/release/0PluginLibrary.plugin.js) - Library required for BetterDiscord Plugins. [More info and source](https://github.com/zerebos/BDPluginLibrary)
+2. [XenoLib](https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/1XenoLib.plugin.js) - Library required for BetterDiscord Plugins. [More info and source](https://github.com/1Lighty/BetterDiscordPlugins/)
+
+<ins> Installing Plugins </ins>
 
 ## Android
 
