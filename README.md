@@ -18,4 +18,4 @@ Just edit any file on GitHub and submit a pull request.
 
 6. Make a pull request with your changes
 
-released under the MIT license
+released under the GNU GENERAL PUBLIC LICENSE
