@@ -162,6 +162,7 @@ title: "The Archive",
           items: [
             //{ text: 'Welcome', link: '/windows/welcome' },
             { text: 'Windows & Office Activation', link: '/windows/windowsandofficeactivation' },
+            { text: 'Unattended Install', link: '/windows/unattendedinstall' },
             { text: 'Firefox Setup', link: '/windows/firefoxsetup' },
             { text: 'Firefox Forks', link: '/windows/firefoxforks' },
             { text: 'Extend Chrome MV2', link: '/windows/chrome' },
