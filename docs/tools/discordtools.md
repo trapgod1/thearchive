@@ -48,7 +48,9 @@ PowerShell Script made by me <3 <br>
 1. [0PluginLibrary](https://raw.githubusercontent.com/zerebos/BDPluginLibrary/refs/heads/master/release/0PluginLibrary.plugin.js) - Library required for BetterDiscord Plugins. [More info and source](https://github.com/zerebos/BDPluginLibrary)
 2. [XenoLib](https://raw.githubusercontent.com/1Lighty/BetterDiscordPlugins/master/Plugins/1XenoLib.plugin.js) - Library required for BetterDiscord Plugins. [More info and source](https://github.com/1Lighty/BetterDiscordPlugins/)
 
-<ins> Installing Plugins </ins>
+<ins> Installing Libraries </ins>
+1. `Settings -> Vencord -> Virtual Filesystem`
+2. `import BD Plugin` and select the downloaded libraries
 
 ## Android
 
