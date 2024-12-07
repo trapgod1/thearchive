@@ -15,8 +15,6 @@ No Torrenting with Free Version
 ## [Warp](https://one.one.one.one/) - Free
 :::danger DO NOT TORRENT ON FREE VPN's
 :::
-:::info DM me for a 1.9EB Warp+ Key
-:::
 
 ## **Attention all Cloudflare WARP users**
 
