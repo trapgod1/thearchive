@@ -78,6 +78,7 @@ title: "The Archive",
           items: [
             //{ text: 'Welcome', link: '/gaming/welcome' },
             { text: 'Minecraft Launcher', link: '/gaming/minecraftlauncher' },
+            { text: 'Lan Multiplayer', link: '/gaming/lanmultiplayer' },
           ]
         },
         {
