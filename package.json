@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "@lando/vitepress-theme-default-plus": "^1.1.1",
+    "@nolebase/vitepress-plugin-highlight-targeted-heading": "^2.15.0",
+    "@nolebase/vitepress-plugin-inline-link-preview": "^2.15.0",
+    "vitepress": "^1.6.3",
+    "vitepress-plugin-tabs": "^0.5.0"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "@orestbida/iframemanager": "^1.3.0",
+    "package-lock.json": "^1.0.0",
+    "package.json": "^2.0.1",
+    "react-timeago": "^7.2.0",
+    "timeago.js": "^4.0.2",
+    "vanilla-cookieconsent": "^3.1.0",
+    "vue": "^3.5.13"
+  }
+}

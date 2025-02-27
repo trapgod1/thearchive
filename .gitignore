@@ -1,0 +1,6 @@
+guides.md
+node_modules
+.github\workflows
+docs/.vitepress/cache/
+docs/.vitepress/dist
+.idea
