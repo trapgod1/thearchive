@@ -110,7 +110,9 @@ title: "The Archive",
                 { text: 'JDownloader', link: '/downloading/downloadmanager/jdownloader' },
               ]
             },
-            {}
+            { text: 'Yt-dlp', link: '/downloading/yt-dlp' },
+            { text: 'Gallery-dl', link: '/downloading/gallery-dl' },
+            { text: 'Ffmpeg', link: '/downloading/ffmpeg' },
           ]
         },
         {
