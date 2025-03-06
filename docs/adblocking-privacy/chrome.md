@@ -5,11 +5,13 @@ Google’s Manifest V3 changes will [impact adblocking capabilities](https://www
 :::
 
 ## Extend MV2 to June 2025
-
+:::warning
+Using RegEdit Will Brake `Use secure DNS`. Will have to manually set it in regedit
+:::
 :::tabs
 ==Regedit
 1. Open a text Editor
-2. Paste one of these
+2. Paste one the following
 
 ```
 Windows Registry Editor Version 5.00
@@ -18,22 +20,16 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome]
 "ExtensionManifestV2Availability"=dword:00000002
-
-```
-
-```
-Windows Registry Editor Version 5.00
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google]
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome]
-"DnsOverHttpsMode"="automatic"
-"DnsOverHttpsTemplates"="https://1.1.1.1/dns-query{?dns}"
-"ExtensionManifestV2Availability"=dword:00000002
-
+"DnsOverHttpsMode"="secure"
+"DnsOverHttpsTemplates"="https://cloudflare-dns.com/dns-query"
 ```
 3. Save as `.reg` file
 4. run the `.reg` file, now you have MV2 until June 2025
+
+### DnsOverHttpsTemplates  Options
+Cloudflare - `https://cloudflare-dns.com/dns-query` <br>
+AdGuard - `https://dns.adguard.com/dns-query` <br>
+Mullvad - `https://base.dns.mullvad.net/dns-query` <br>
 
 ==Flags
 1. Go to `chrome://flags/`
