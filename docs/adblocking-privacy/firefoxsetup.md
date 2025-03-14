@@ -18,7 +18,7 @@
 * **[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)**
 * **[Violetmonkey](https://addons.mozilla.org/firefox/addon/violentmonkey/)**
 
-## uBlock Origin Filter Lists
+## [uBlock Origin Filter Lists](/adblocking-privacy/ublockorigin)
 
 <div style="width: 100%; text-align: left;">
     <img src="/assets/adblocking-privacy/uBlockOriginFilterLists.png" alt="UblockOriginFilterLists" style="width: 50%; height: auto;">
@@ -27,12 +27,17 @@
 * [Actually Legitimate URL Shortener Tool](https://filterlists.com/lists/actually-legitimate-url-shortener-tool) (2k rules)
 * [Bypass Paywalls Clean filter](https://filterlists.com/lists/bypass-paywalls-clean-filter) (960 rules)
 
-## Useful User Scripts
+## [Twitch AdBlock](/adblocking-privacy/twitchadblock) + [TwitchNoSub](/tools/twitchtools)
+* **Vaft - [Install](https://github.com/pixeltris/TwitchAdSolutions/raw/master/vaft/vaft.user.js)**
+* **TwitchNoSub - [Install](https://github.com/besuper/TwitchNoSub/raw/refs/heads/master/userscript/twitchnosub.user.js)**
 
-* Bypass-all-shortlinks-debloated - [Install Link](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/raw/branch/main/Bypass_All_Shortlinks.user.js)
-* Adguard Extra - [Install Link](https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js)
+## [Useful User Scripts](/tools/userscripts)
+* Bypass-all-shortlinks-debloated - [Install](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/raw/branch/main/Bypass_All_Shortlinks.user.js)
 
+***
 ## Betterfox Tweaks
+:::danger Do not use this if you don't know what you are doing
+:::
 
 [Source](https://github.com/yokoffing/BetterFox)
 ***

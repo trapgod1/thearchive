@@ -8,8 +8,8 @@ Google’s Manifest V3 changes will [impact adblocking capabilities](https://www
 :::warning
 Using RegEdit Will Brake `Use secure DNS`. Will have to manually set it in regedit
 :::
-:::tabs
-==Regedit
+
+## Regedit
 1. Open a text Editor
 2. Paste one the following
 
@@ -30,14 +30,6 @@ Windows Registry Editor Version 5.00
 Cloudflare - `https://cloudflare-dns.com/dns-query` <br>
 AdGuard - `https://dns.adguard.com/dns-query` <br>
 Mullvad - `https://base.dns.mullvad.net/dns-query` <br>
-
-==Flags
-1. Go to `chrome://flags/`
-2. Search for `MV2`
-
-<div style="width: 100%; text-align: left;">
-    <img src="/assets/adblocking-privacy/chromemv2flags.png" alt="chromemv2flags" style="width: 100%; height: auto;">
-</div>
 
 ## Alternatives
 If you need to use a chromium-based browser only recommendation is brave <br>

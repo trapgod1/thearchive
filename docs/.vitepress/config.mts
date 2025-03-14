@@ -201,6 +201,8 @@ title: "The Archive",
           items: [
             //{ text: 'In Development', link: '/tools/welcome' },
             { text: 'Twitch Tools', link: '/tools/twitchtools' },
+            { text: 'Extensions', link: '/tools/extensions' },
+            { text: 'Userscripts', link: '/tools/userscripts' },
             { text: 'Discord Tools', link: '/tools/discordtools' },
             { text: 'Windows Tools', link: '/tools/windowstools' },
           ]
